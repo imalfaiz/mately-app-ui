@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mately-react/static/css/main.c621ee26.css",
+    "main.js": "/mately-react/static/js/main.70f6ac11.js",
+    "index.html": "/mately-react/index.html",
+    "main.c621ee26.css.map": "/mately-react/static/css/main.c621ee26.css.map",
+    "main.70f6ac11.js.map": "/mately-react/static/js/main.70f6ac11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c621ee26.css",
+    "static/js/main.70f6ac11.js"
+  ]
+}
